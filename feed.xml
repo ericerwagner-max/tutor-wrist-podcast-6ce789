@@ -13,6 +13,21 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of wrist ARTHROSCOPY literature — arthroscopic techniques for scaphoid nonunion, scapholunate &amp; lunotriquetral ligament injuries, TFCC tears, DRUJ instability, distal radius fractures/malunions, midcarpal instability, CMC/wrist arthritis, SLAC/SNAC, Kienböck, and cartilage injuries. Key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Wrist Arthroscopy — 2026-08-29</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sat, 29 Aug 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-08-29 Tutor Wrist.m4a</guid>
+<itunes:duration>24:22</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/cover.png"/>
+<description>Weekly Wrist Arthroscopy Literature Digest — 2026-08-29
+Pulled from PubMed across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. Restricted to articles focused on wrist arthroscopic techniques. Author line = first &amp; senior author; corresponding-author institution listed per article. 6 articles.
+This is a TFCC week — five of the six papers are about the triangular fibrocartilage complex, and two of them are genuinely important. The 7-day entry-date window (2026-08-22 → 2026-08-29) returned exactly two citations, and both are new: an international inter- and intraobserver reliability study of wrist arthroscopy for TFCC tears, and a Shanghai series of transosseous foveal repair augmented with dorsal DRUJ reinforcement. Two is below threshold, so the window was widened.
+How it was widened. The search was repeated by publication date as well as entry date, per the standing rule. The 90-day dp sweep returned 15 citations against 4 by 30-day edat; all 13 prior ones were already covered in earlier digests, leaving the same two. A MeSH-broadened sweep (arthroscopymh + wrist jointmh / carpal jointsmh / triangular fibrocartilagemh, 4 months by publication date) returned 28 citations and added nothing new — the search strategy is not the limiting factor. A 24-month dp sweep returned 104 citations, of which only four had never been covered: three genuine papers, included below, and the Arthroscopic Treatments for Scapholunate Ligament Injury editorial (PMID 40688644, Nakamura T, Tokyo), excluded again per the standing no-editorial filter.
+One paper was recovered by the non-arthroscopic sweep, and it matters. The Washington University foveal TFCC repair outcomes paper (Hong/Goldfarb, below) does not carry arthroscop anywhere in its title or abstract — it describes the ulnar tunnel foveal repair by technique name only — so the primary query missed it entirely. It surfaced on the 30-day non-arthroscopic wrist screen and is included here because ulnar tunnel foveal repair is the arthroscopically assisted operation most of us are actually performing. This is the second search blind spot the program has found in a month, and it is a different one from the entry-date trap: a technique paper can be fully arthroscopic in practice and invisible to a title/abstract keyword search. The non-arthroscopic sweep should stay a permanent part of the weekly run, not a fallback.
+Screened and excluded. The 30-day non-arthroscopic screen of the six journals returned 15 wrist/carpal citations. Beyond the arthroscopic papers above, none involved arthroscopy: Kienböck etiology review, reverse total wrist arthroplasty design, Adams–Berger DRUJ reconstruction 12-month outcomes, median-nerve wrist-to-forearm ratio for carpal tunnel diagnosis, nerve transfers for the spastic wrist, scaphoid waist index and nonunion after scaphocapitate fusion, ASSH geriatric distal radius preference survey, flexor tendon ruptur</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/2026-08-29%20Tutor%20Wrist.m4a" length="6054203" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Wrist Arthroscopy — 2026-08-22</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Sat, 22 Aug 2026 08:00:00 +0000</pubDate>
