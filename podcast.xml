@@ -13,6 +13,21 @@
 <itunes:summary>A weekly 20–30 minute two-host walk through the past week of wrist ARTHROSCOPY literature — arthroscopic techniques for scaphoid nonunion, scapholunate &amp; lunotriquetral ligament injuries, TFCC tears, DRUJ instability, distal radius fractures/malunions, midcarpal instability, CMC/wrist arthritis, SLAC/SNAC, Kienböck, and cartilage injuries. Key studies, corresponding authors, and clinically relevant takeaways. Generated automatically from PubMed.</itunes:summary>
 <itunes:category text="Science"><itunes:category text="Medicine"/></itunes:category>
 <item>
+<title>Wrist Arthroscopy — 2026-09-13</title>
+<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
+<pubDate>Sun, 13 Sep 2026 08:00:00 +0000</pubDate>
+<guid isPermaLink="false">2026-09-13 Tutor Wrist.m4a</guid>
+<itunes:duration>24:19</itunes:duration>
+<itunes:image href="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/cover.png"/>
+<description>Weekly Wrist Arthroscopy Literature Digest — 2026-09-13
+Pulled from PubMed across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. Restricted to wrist arthroscopic techniques and closely related work. Author line = first &amp; senior author; corresponding-author institution listed per article. 14 articles.
+No new wrist-arthroscopy paper appeared this week, so this is a backfill digest. The 14-day entry-date window (2026-08-30 → 2026-09-14) with the standard arthroscopy query returned zero citations. The 90-day publication-date sweep returned 11 and a 30-day all-fields arthroscopy sweep returned 4 — every one already covered in a previous digest. The standing non-arthroscopic journal screen (14-day entry date, wrist/carpal terms, no arthroscopy-keyword requirement) returned 8, of which 6 were new and none qualified: a paediatric MCP dislocation reduction technique, an AI stewardship review, transthyretin amyloid biopsy at carpal tunnel release, cerebral palsy forearm morphology, and a letter/response pair on dorsal ulnar fragment displacement after volar plating.
+So the window was extended backwards, as the exhausted-window rule requires. A five-year all-fields arthroscopy sweep of all six journals (2022–2026, 322 citations) was reconciled against every PMID in the wrist and wrist-arthroplasty digests and the Weekly Wrist node folder, then title-checked against the whole Tutor tree. It surfaced a real, previously unswept block: arthroscopic papers from the February, April and June 2024 issues of J Wrist Surg, the February 2024 J Hand Surg Eur Vol and April and November 2024 J Hand Surg Am, plus four arthroscopy-relevant 2025 J Wrist Surg papers that did not carry an arthroscopy keyword and were missed by the weekly query. J Wrist Surg 2025 was also enumerated issue by issue (152 citations, 86 untouched by this program) — which is where those four came from. Every paper below is older literature, not this week's publications, and the publication date is given for each.
+Still queued for the next dry week (uncovered, arthroscopic, not used here): arthroscopic resection arthroplasty for SLAC (J Wrist Surg 2024, PMID 38213559), the hook test and foveal detachment (J Wrist Surg 2024, PMID 38264126), radial midcarpal instability treated by radioscaphocapitate recession (PMID 38264135), the midcarpal-arthroscopy interobserver RCT (J Hand Surg Am 2022, PMID 36031464), and a large 2022–2023 J Wrist Surg arthroscopy block (volar SL capsulodesis, pediatric capsular shrinkage, arthroscopic ganglion excision, NanoScope, proximal pole grafting).
+Screened and excluded. Adding Arthroscopy to Open Surgery with a VLP for Distal Radial Fractures Did Not Improve Function at 1 Year (JBJS Am 2024, PMID 38507472) is an Evidence-Based Orthopaedics commentary with no abstract — excluded as a commentary. Editorials excluded per the standing filter: Arthroscopic Treatments for Scapholunate Ligament Injur</description>
+<enclosure url="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/2026-09-13%20Tutor%20Wrist.m4a" length="6042619" type="audio/x-m4a"/>
+</item>
+<item>
 <title>Wrist Arthroscopy — 2026-09-07</title>
 <itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
 <pubDate>Mon, 07 Sep 2026 08:00:00 +0000</pubDate>
@@ -193,67 +208,6 @@ Evaluating the Optimal Treatment Pathway for Volar Wrist Ganglia: A Cost-Minimiz
 Rogers MJ &amp; Kazmers NH — University of Utah, Salt Lake City, UT, USA
 A decision-analytic economic model comparing aspiration, open excision, and ar</description>
 <enclosure url="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/2026-07-11%20Tutor%20Wrist.m4a" length="5836527" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Wrist Arthroscopy — 2026-07-04</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Sat, 04 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-07-04 Tutor Wrist.m4a</guid>
-<itunes:duration>23:09</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/cover.png"/>
-<description>Weekly Wrist Arthroscopy Literature Digest — 2026-07-04
-Pulled from PubMed across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. Restricted to articles focused on wrist arthroscopic techniques. Author line = first &amp; senior/corresponding author; corresponding-author institution listed per article.
-A quiet week. A 7-day and even a 14-day PubMed entry-date search across the six journals turned up no newly indexed wrist-arthroscopy articles, so the window was widened to the prior 90 days by publication date. Of the ~21 arthroscopic-technique citations in that wider window, 19 were already covered in last week's inaugural digest (2026-07-03) — only 2 articles are genuinely new since then, both in the Journal of Hand Surgery (American Volume). JBJS Am, Plastic &amp; Reconstructive Surgery, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics had no new qualifying articles this week. (One additional 90-day hit, a bilateral dynamic-CT protocol paper for scapholunate instability out of Radboud/Plast Reconstr Surg, was excluded as a diagnostic-imaging study with no arthroscopic technique component — arthroscopy is used there only as a reference-standard confirmation, not the focus of the paper.)
----
- Journal of Hand Surgery (American Volume) (2)
-Interobserver Reliability of the Trampoline Test, Hook Test, and Suction Test in Arthroscopic Assessment of Triangular Fibrocartilage Complex Lesions
-Hasegawa H &amp; De Villeneuve Bargemon JB — La Timone Adult Hospital, Aix Marseille University, Marseille, France
-A blinded review of 21 wrist arthroscopy videos by three board-certified hand surgeons testing agreement on three intraoperative TFCC diagnostic signs, finding the hook test most reproducible (excellent interobserver agreement) while the trampoline and suction tests showed only moderate reliability.
-PubMed
-Effect of Radial Lengthening on the Stability of the Distal Radioulnar Joint: A Biomechanical Cadaveric Study
-Yin CY &amp; Kakar S — Mayo Clinic, Rochester, MN, USA
-A cadaveric biomechanical study (n=8 specimens) using an arthroscopically created TFCC injury model to test whether radial lengthening (1, 3, 5 mm) restores DRUJ stability, finding no consistent benefit from lengthening alone and cautioning against relying on it to treat DRUJ instability after distal radius fracture.
-PubMed
----
-Generated automatically from PubMed. This track runs weekly over the prior 7 days, widening the window when the literature is thin, as it was this week.</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/2026-07-04%20Tutor%20Wrist.m4a" length="5772729" type="audio/x-m4a"/>
-</item>
-<item>
-<title>Wrist Arthroscopy — 2026-07-03</title>
-<itunes:author>Eric R. Wagner, MD, MSc</itunes:author>
-<pubDate>Fri, 03 Jul 2026 08:00:00 +0000</pubDate>
-<guid isPermaLink="false">2026-07-03 Tutor Wrist.m4a</guid>
-<itunes:duration>24:29</itunes:duration>
-<itunes:image href="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/cover.png"/>
-<description>Weekly Wrist Arthroscopy Literature Digest — 2026-07-03
-Pulled from PubMed across the six target journals — JBJS Am, J Hand Surg Am, Plast Reconstr Surg, J Wrist Surg, J Hand Surg Eur Vol, and Hand Clinics. Restricted to articles focused on wrist arthroscopic techniques (arthroscopic treatment of scaphoid nonunion, scapholunate/lunotriquetral injuries, TFCC tears, DRUJ instability, distal radius fractures/malunions, midcarpal instability, CMC/wrist arthritis, SLAC/SNAC, Kienböck, cartilage injuries, etc.). Author line = first &amp; senior author; corresponding-author institution listed per article. 18 articles (this first run widened to a ~18-month window for a fuller sample; going forward this runs weekly over the prior 7 days). JBJS Am and Plastic &amp; Reconstructive Surgery had no qualifying arthroscopic-technique wrist articles in this window.
----
- Hand Clinics (7)
-A themed issue on open-versus-arthroscopic wrist surgery.
-Wrist Anatomy: Open and Arthroscopic Surgical Approaches
-Emanuels AF &amp; Wu KY — Mayo Clinic, Rochester, MN, USA
-A practical review of volar and dorsal carpal anatomy as seen through open and arthroscopic approaches, framing how the choice of approach in the young arthritic wrist is dictated by the pathology and the exposure needed to work safely.
-PubMed
-Arthroscopic Treatment of Thumb Carpometacarpal Joint Arthritis
-Bougioukli S &amp; Chung KC — University of Michigan, Ann Arbor, MI, USA
-A review of arthroscopic-assisted management of basilar thumb arthritis, arguing that wrist-arthroscopy techniques address several shortcomings of open trapeziectomy while the optimal procedure remains unsettled.
-PubMed
-Total Wrist Arthrodesis: Open Versus Arthroscopic
-Alsayed A &amp; Awan H — The Ohio State University, Columbus, OH, USA
-A review of indications and techniques for total wrist fusion in advanced rheumatoid or post-traumatic arthritis (including SLAC/SNAC), comparing open and arthroscopic approaches and stressing careful patient selection given the trade of motion for pain relief.
-PubMed
-Proximal Row Carpectomy: Open Versus Arthroscopy
-Lim RQR &amp; Chim H — Louisiana State University Health Sciences Center, New Orleans, LA, USA
-A review of arthroscopic proximal row carpectomy as a motion-preserving salvage option, weighing the promise of less soft-tissue injury and faster rehab against a real learning curve and longer operative time.
-PubMed
-Atypical Fusions Radioscapholunate/Lunotriquetral: Open vs Arthroscopic
-Tse S &amp; Bayne CO — University of California, Davis, Sacramento, CA, USA
-A review of RSL and LT limited fusions for arthritis/instability, noting that distal scaphoid and triquetral excision can improve motion and that arthroscopic approaches improve visualization at the cost of a steep learning curve.
-PubMed
-Current Trends in 4-Corner and 3-Corner Fusions: Comparing Open and Arthroscopic Approaches
-Paul R &amp; Persitz J — Toronto Western Hospital, University Health Network, Toronto, Canada
-A review of 4- and 3-corner fusions for SLAC/SNAC art</description>
-<enclosure url="https://ericerwagner-max.github.io/tutor-wrist-podcast-6ce789/2026-07-03%20Tutor%20Wrist.m4a" length="6099875" type="audio/x-m4a"/>
 </item>
 </channel>
 </rss>
